@@ -1,4 +1,4 @@
-package classobject;
+package classobject;     						//Package 
 
 public class Class1 {							//Class
 	
